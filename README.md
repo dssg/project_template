@@ -1,7 +1,7 @@
 # DSSG/DSaPP Project Template
 --------
 
-Or, How to build *data science* projects that can be rerun. This is an opinated templated produced by [Hunter Owens](http://hunterowens.net) and [Carl Shan](http://www.carlshan.com/) on behalf of the [Center for Data Scienece and Public Policy](http://harris.uchicago.edu/content/center-data-science-and-public-policy-0). The idea for a project template is heavily inspired by the NPR apps team's [project template](http://harris.uchicago.edu/content/center-data-science-and-public-policy-0). 
+Or, How to build *data science* projects that can be rerun. This is an opinionated template produced by [Hunter Owens](http://hunterowens.net) and [Carl Shan](http://www.carlshan.com/) on behalf of the [Center for Data Science and Public Policy](http://harris.uchicago.edu/content/center-data-science-and-public-policy-0). The idea for a project template is heavily inspired by the NPR apps team's [project template](http://harris.uchicago.edu/content/center-data-science-and-public-policy-0). 
 
 ## Using
 
@@ -33,6 +33,8 @@ To create a project using this as a template-
 ## Assumptions
 
 ## Conventions
+
+## Tools
 
 
 
