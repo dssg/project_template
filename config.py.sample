@@ -1,0 +1,4 @@
+DB_CONN = 'postgresql://scott:tiger@localhost:5432/mydatabase'
+
+AWS_ACCESS_KEY = 'SOMEKEY'
+AWS_SECRET_KEY = 'THE_SECRET'
