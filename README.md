@@ -49,6 +49,8 @@ If using the AWS suite of tools and you need to access the AWS API, store `AWS_A
 
 If the project involves building a webapp, please place the webapp in a folder entitled `webapp`. It should follow the conventions of whatever framework is used. It maybe useful to have this be a git submodule. 
 
+The directory specific README's should be used to explain what is going on in the directory and what is required to run it. 
+
 ## Tools/Documentation
 * Python
 * PostgresQL
